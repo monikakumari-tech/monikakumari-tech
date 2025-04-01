@@ -46,18 +46,4 @@
 
 ---
 
-## ✨ Cool Dev Metrics
-
-![Profile Views](https://komarev.com/ghpvc/?username=omprakash8788&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/omprakash8788?style=social)
-![Stars](https://img.shields.io/github/stars/omprakash8788?style=social)
-
----
-
-
-
----
-
-✨ **Let's build something amazing together!** 🚀
-
 
